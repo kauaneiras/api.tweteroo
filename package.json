@@ -1,0 +1,21 @@
+{
+  "name": "api.tweteroo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/ndex.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kauaneiras/api.tweteroo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kauaneiras/api.tweteroo/issues"
+  },
+  "homepage": "https://github.com/kauaneiras/api.tweteroo#readme"
+}
